@@ -1,0 +1,8 @@
+.display_price {
+    font-weight: 100;
+    color: gray;
+}
+
+.discount_percentage {
+    color: red;
+}
